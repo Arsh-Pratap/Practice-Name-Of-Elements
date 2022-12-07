@@ -39,7 +39,7 @@ $("#submit").on("click", function () {
   value = document.getElementById("type-name").value;
 
   if (value == element[randomNumber]) {
-    alert("Correct 😊👌 my boii ");
+    alert("Correct😊👌 My Boy ");
     innerNumber = $("#atomic-number").text(atomicNumber[randomNumbers()]);
       document.getElementById("type-name").value = "";
   } else {
@@ -58,7 +58,7 @@ $(document).keyup(function (e) {
       innerNumber = $("#atomic-number").text(atomicNumber[randomNumbers()]);
       document.getElementById("type-name").value = "";
     } else {
-      alert("wroWrong 😱. Now train for another 1000 Yearsng");
+      alert("Wrong 😱. Now train for another 1000 Years");
     }
   }
 });
