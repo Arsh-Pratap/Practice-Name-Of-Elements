@@ -1,0 +1,9 @@
+.buttons {
+    position: relative;
+}
+
+#again {
+    position: absolute;
+    right: 0%;
+    margin-left: 5px;
+}
