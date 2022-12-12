@@ -14,7 +14,7 @@ var element = [
   "aluminium",
   "silicon",
   "phosphorus",
-  "sulfur",
+  "sulphur",
   "chlorine",
   "argon",
   "potassium",
