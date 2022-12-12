@@ -54,7 +54,7 @@ $(document).keyup(function (e) {
     value = document.getElementById("type-name").value;
 
     if (value == element[randomNumber]) {
-      alert("Correct 😊👌 my boii");
+      alert("Correct 😊👌 My Boy");
       innerNumber = $("#atomic-number").text(atomicNumber[randomNumbers()]);
       document.getElementById("type-name").value = "";
     } else {
